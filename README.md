@@ -20,7 +20,7 @@ La ATP basa su adjundicación de puntos según las victorias de los torneos que 
 
 Se puede comprobar como en las categorías inferiores, los rankings de los participantes son más bajos para poder sumar el mayor número de puntos, y viceversa.
 
-![image](https://user-images.githubusercontent.com/113057530/203175882-e8dead03-a02c-4f63-99e2-9b4a59c80f9b.png)
+<img src="[https://user-images.githubusercontent.com/link-to-your-image.png](https://user-images.githubusercontent.com/113057530/203175882-e8dead03-a02c-4f63-99e2-9b4a59c80f9b.png)" width="100" />
 
 
 ### 3. Países
@@ -28,6 +28,7 @@ Se puede comprobar como en las categorías inferiores, los rankings de los parti
 La cultura del tenis, por desgracia, va ligeramente ligada al poder económico de los diferentes países, ya que es un deporte al que acceder de manera profesional requiere un gran esfuerzo económico, por ello países como USA, cuentan con mayor número de tenistas profesionales:
 
 ![image](https://user-images.githubusercontent.com/113057530/203176264-683e16aa-1f94-4d27-ae1e-a061bb3711ac.png)
+
 
 ### 4. Habilidades destacadas
 
