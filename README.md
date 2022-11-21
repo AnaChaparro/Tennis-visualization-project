@@ -20,7 +20,8 @@ La ATP basa su adjundicación de puntos según las victorias de los torneos que 
 
 Se puede comprobar como en las categorías inferiores, los rankings de los participantes son más bajos para poder sumar el mayor número de puntos, y viceversa.
 
-<img src="[https://user-images.githubusercontent.com/link-to-your-image.png](https://user-images.githubusercontent.com/113057530/203175882-e8dead03-a02c-4f63-99e2-9b4a59c80f9b.png)" width="100" />
+<img src="https://user-images.githubusercontent.com/link-to-your-image.png](https://user-images.githubusercontent.com/113057530/203175882-e8dead03-a02c-4f63-99e2-9b4a59c80f9b.png" width="100" />
+
 
 
 ### 3. Países
