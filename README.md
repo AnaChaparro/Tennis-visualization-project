@@ -40,14 +40,15 @@ La capacidad de potenciar las mejores habilidades y contrarrestar así alguna po
 
 Algunas de estas características se muestran a continuación:
 
-![image](https://user-images.githubusercontent.com/113057530/203176760-43421d73-c08c-4e03-ad8c-07d8dc9d6c14.png)
+<img src="https://github.com/AnaChaparro/Tennis-visualization-project/blob/main/img/Captura%20de%20pantalla%202022-11-21%20a%20las%2023.21.36.png?raw=true" width="350" height="350"> <img src="https://github.com/AnaChaparro/Tennis-visualization-project/blob/main/img/Captura%20de%20pantalla%202022-11-21%20a%20las%2023.21.52.png?raw=true" width="550" height="350">
 
-![image](https://user-images.githubusercontent.com/113057530/203178284-3b475070-2907-4e5e-acb0-09912a871e92.png)
 
 ### 5. Evolución en ranking
 
 El objetivo de cualquier tenista profesional es avanzar durante la temporada ganando todos los partidos posibles para obtener la mejor posición en el ranking. Se ha comporbado de manera gráfica la evolución de los 10 tenistas que acabaron el año 2021 con las 10 mejores posiciones del ranking, cuya evolución desde principios de año se muestra en el siguiente gráfico:
-![image](https://user-images.githubusercontent.com/113057530/203177487-6a22a09a-8875-41ce-8896-fb83fe5eda74.png)
+
+<img src="https://github.com/AnaChaparro/Tennis-visualization-project/blob/main/img/Captura%20de%20pantalla%202022-11-22%20a%20las%200.19.37.png?raw=true" width="600" height="600">
+
 
 ### 6. Best Players
 
@@ -55,6 +56,6 @@ Finalmente se ha analizado el saque de los 5 mejores jugadores del ranking. El s
 Tanto e el saque, como en todos los movimientos, es importante la superficie en la que se juega, ya que la pelota de tenis, al ser un elemento de presión que bota, esta sometida al tipo de pista, si es pista dura, tierra batida o hierba, si la pista es outdoor o indoor o simplemente por la altitud a la que se encuentra la ciudad en la que se juega el torneo.
 En este caso se ha analizado hacia que parte de la pista se dirigen los puntos ganadores de los saques de los mejores 5.
 
-![image](https://user-images.githubusercontent.com/113057530/203178141-eea9372b-f44f-43c0-933c-81eded0d29e6.png)
+<img src="https://github.com/AnaChaparro/Tennis-visualization-project/blob/main/img/Captura%20de%20pantalla%202022-11-21%20a%20las%2023.22.34.png?raw=true" width="350" height="350">
 
 
