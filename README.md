@@ -29,7 +29,8 @@ Se puede comprobar como en las categorías inferiores, los rankings de los parti
 
 La cultura del tenis, por desgracia, va ligeramente ligada al poder económico de los diferentes países, ya que es un deporte al que acceder de manera profesional requiere un gran esfuerzo económico, por ello países como USA, cuentan con mayor número de tenistas profesionales:
 
-![image](https://user-images.githubusercontent.com/113057530/203176264-683e16aa-1f94-4d27-ae1e-a061bb3711ac.png)
+<img src="https://github.com/AnaChaparro/Tennis-visualization-project/blob/main/img/Captura%20de%20pantalla%202022-11-21%20a%20las%2023.21.05.png?raw=true" width="500" height="500">
+
 
 
 ### 4. Habilidades destacadas
